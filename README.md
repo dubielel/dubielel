@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Miłosz and I'm currently learning how to code and work on IT projects.
+
+My passion is photography and I'm trying to do my best in this field 😄
+
+
+
+
 <!--
 **dubielel/dubielel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
