@@ -4,6 +4,8 @@ I'm Miłosz and I'm currently learning how to code and work on IT projects.
 
 My passion is photography and I'm trying to do my best in this field 😄
 
+Here is link to [My Own Github Page](https://dubielel.github.io/)
+
 
 
 
